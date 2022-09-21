@@ -1,7 +1,7 @@
 # AAD Titanic ML Group 3
 
 Objective:
-> Create a pareto frontier of ML models to predict if passengers on the titinic survived or not
+> Create a pareto frontier of ML models to predict if passengers on the titanic survived or not
 
 Team:
 * Tristan Peat
