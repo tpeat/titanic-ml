@@ -33,8 +33,11 @@ I say we start this with list and expand if we can do better
 * I say we `pickle` all of the models
 * IF we are doing thousands of model iterations, then maybe we could only keep the models on the pareto front
 
+## Best Model
+![Tree](tree.pdf)
+
 ## TODO
-Everything
+* slides
 
 ## References
 * [Titanic on Kaggle](https://www.kaggle.com/c/titanic)
